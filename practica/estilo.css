@@ -1,0 +1,22 @@
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    height: 100px;
+    justify-content:    ;
+    align-items: 
+    flex-direction: ;
+}
+
+.caja{
+    background-color: crimson;
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin: 20px;
+}
+
+/*
+
+*/
