@@ -1,0 +1,28 @@
+footer{
+    background-color: black;
+    color: white;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 20px;
+}
+ul{
+    display: flex;
+    justify-content: space-around; 
+}
+
+
+/*img.portada {
+    position: absolute;
+    z-index: -1;
+  }*/
+
+
+section{
+    border-color: black;
+    margin: 5%;
+    display: flex;
+    justify-content: space-around;
+  }
